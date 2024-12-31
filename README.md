@@ -7,3 +7,5 @@ Some of the TypeScript features that this guide will cover include:
 * Defining object types with dynamic keys.
 * Extending interfaces to include specific properties.
 * Type transformations, utilizing utility types.
+
+TODO: Add a section comparing and contrasting TypeScript with raw JavaScript.
