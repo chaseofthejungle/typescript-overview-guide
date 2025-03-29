@@ -5,6 +5,7 @@
   
 1. [TypeScript vs. JavaScript](#ts-vs-js)
 2. [TypeScript Features](#features)
+3. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -23,4 +24,12 @@ Some of the TypeScript features that this guide will cover include:
   
 <hr />
   
-TODO: Add a section comparing and contrasting TypeScript with raw JavaScript.
+## 3. <a name="supplemental">Supplemental Resources</a>
+  
+* [Intro to MERN and MEAN Stack Guide](https://github.com/chaseofthejungle/intro-to-mern-and-mean-stack)  
+* [JavaScript Concepts Guide](https://github.com/chaseofthejungle/js-concepts-guide)
+  
+<hr />
+  
+TODO #1: Complete sections 1 and 2.  
+TODO #2: Add a section comparing and contrasting TypeScript with raw JavaScript.
