@@ -26,8 +26,9 @@ Some of the TypeScript features that this guide will cover include:
   
 ## 3. <a name="supplemental">Supplemental Resources</a>
   
-* [Intro to MERN and MEAN Stack Guide](https://github.com/chaseofthejungle/intro-to-mern-and-mean-stack)  
-* [JavaScript Concepts Guide](https://github.com/chaseofthejungle/js-concepts-guide)
+* *[Official TypeScript Website](https://www.typescriptlang.org/)*
+* *[Intro to MERN and MEAN Stack Guide](https://github.com/chaseofthejungle/intro-to-mern-and-mean-stack)*
+* *[JavaScript Concepts Guide](https://github.com/chaseofthejungle/js-concepts-guide)*
   
 <hr />
   
