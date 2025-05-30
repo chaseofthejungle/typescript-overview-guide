@@ -32,5 +32,5 @@ Some of the TypeScript features that this guide will cover include:
   
 <hr />
   
-TODO #1: Complete sections 1 and 2.  
-TODO #2: Add a section comparing and contrasting TypeScript with raw JavaScript.
+TODO #1: Complete sections 1 and 2 (including comparison/contrast of TypeScript with raw JavaScript).  
+TODO #2: Elaborate on integraton with AngularJS and React.
